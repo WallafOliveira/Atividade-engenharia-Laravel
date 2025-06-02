@@ -2,19 +2,6 @@
 
 Este projeto foi desenvolvido como parte das atividades da disciplina de Engenharia de Software, utilizando o framework Laravel para construção de uma aplicação web seguindo o padrão MVC (Model-View-Controller).
 
-## 📋 Sumário
-
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação](#instalação)
-- [Configuração](#configuração)
-- [Execução](#execução)
-- [Testes](#testes)
-- [Coleção Postman](#coleção-postman)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-
 ## 📝 Sobre o Projeto
 
 A aplicação tem como objetivo aplicar os conceitos aprendidos na disciplina de Engenharia de Software, proporcionando uma experiência prática no desenvolvimento de sistemas web utilizando o Laravel.
